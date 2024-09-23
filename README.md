@@ -20,27 +20,27 @@ Created using the UIKit framework.
 # APP
 Information Screen
 
-<img src="Image/55.gif" alt="" width="450" height="700">
+<img src="Image/11.gif" alt="" width="450" height="700">
 
 Shopping Screen
 
-<img src="Image/66.gif" alt="" width="450" height="700">
+<img src="Image/22.gif" alt="" width="450" height="700">
 
 Search Pen
 
 <img src="Image/77.gif" alt="" width="450" height="700">
 
-
-Search Pen
+Basket
 
 <img src="Image/88.gif" alt="" width="450" height="700">
 
-
-Search Pen
+Registration
 
 <img src="Image/99.gif" alt="" width="450" height="700">
 
-
-Search Pen
+About User
 
 <img src="Image/100.gif" alt="" width="450" height="700">
+
+# Credits
+© Maxim Fedoseenko | 2024
