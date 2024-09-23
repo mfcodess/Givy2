@@ -22,6 +22,7 @@ Information Screen
 
 <img src="Image/55.gif" alt="" width="450" height="700">
 
-Shopping Screen.
+Shopping Screen
 
 <img src="Image/66.gif" alt="" width="450" height="700">
+
