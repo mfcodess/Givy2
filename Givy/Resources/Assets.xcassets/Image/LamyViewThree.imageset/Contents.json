@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "LAMY_Launch2023_nexx-neoncoralred-Banner_Typo3_Teaser.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
