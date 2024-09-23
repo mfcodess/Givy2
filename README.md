@@ -20,4 +20,4 @@ Created using the UIKit framework.
 # APP
 
 
-<img src="333.gif" alt="" width="700">
+<img src="55.gif" alt="" width="450" height="700">
