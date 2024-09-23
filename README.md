@@ -1,23 +1,23 @@
+# Givy
 
+Created using the UIKit framework.
 
-<h2>Hi there 👽</h2>
-<p>I'm Maxim Fedoseenko, an iOS Developer from Ukraine.</p>
+<img alt="Static Badge" src="https://img.shields.io/badge/platform-iOS-black"> <img src="https://img.shields.io/badge/size-52,7 МB-blue" alt="Size">
+
+# Note
 
 <ul>
-    <li>Building apps for fun</li>
-    <li>Sharing my learnings on socials</li>
+    <li>Xcode 11 or later.</li>
+    <li>iOS 13 or later in case of running it in a devices</li>
 </ul>
 
-<h2>Connect with me</h2>
-<div style="display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/maxim-fedoseenko-45892b225/" style="margin-right: 10px;">
-        <img src="1.png" width="115" height="25" alt="Instagram Image">
-    </a>
-    <a href="https://www.instagram.com/mfcodes/" style="margin-right: 10px;">
-        <img src="2.png" width="115" height="25" alt="Instagram Image">
-    </a>
-    <a href="">
-        <img src="3.png" width="115" height="25" alt="Instagram Image">
-    </a>
-</div>
+# Contact me
 
+<ul>
+    <li>Instagram: <a href="https://www.instagram.com/mfcodes/" target="_blank">@mfcodes</a></li>
+</ul>
+
+# APP
+
+
+<img src="333.gif" alt="" width="700">
