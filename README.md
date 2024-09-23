@@ -18,6 +18,11 @@ Created using the UIKit framework.
 </ul>
 
 # APP
+Information Screen
 
+<img src="Image/55.gif" alt="" width="450" height="700">
 
-<img src="images/333.gif" alt="GIF" width="700" height="400">
+Shopping Screen
+
+<img src="Image/66.gif" alt="" width="450" height="700">
+
