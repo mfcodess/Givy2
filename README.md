@@ -1,6 +1,7 @@
 # Givy
 
-Created using the UIKit framework.
+Created using the UIKit framework. It took 1.5 months to create this. This is my first full application, which I worked on for a long time, and I’m glad to show it to you.
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/platform-iOS-black"> <img src="https://img.shields.io/badge/size-52,7 МB-blue" alt="Size">
 
