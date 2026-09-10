@@ -1,45 +1,45 @@
 # Givy
 
-Created using the UIKit framework. It took 1.5 months to create this. This is my first full application, which I worked on for a long time, and I’m glad to show it to you. 🙂
+Створено за допомогою фреймворку UIKit. На створення знадобилося 1,5 місяці. Це мій перший повноцінний додаток, над яким я працював довго, і я радий показати його вам. 🙂
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/platform-iOS-black"> <img src="https://img.shields.io/badge/size-52,7 МB-blue" alt="Size">
 
-# Note
+# Примітка
 
 <ul>
-    <li>Xcode 11 or later.</li>
-    <li>iOS 13 or later in case of running it in a devices</li>
+    <li>Xcode 11 або новішої версії</li>
+    <li>iOS 13 або новішої версії, якщо її запущено на пристроях</li>
 </ul>
 
 # Contact me
 
 <ul>
-    <li>Instagram: <a href="https://www.instagram.com/mfcodes/" target="_blank">@mfcodes</a></li>
+    <li>Instagram: <a href="https://www.instagram.com/maxfeds/" target="_blank">@maxfeds</a></li>
 </ul>
 
 # APP
-Information Screen
+Інформаційний екран
 
 <img src="Image/11.gif" alt="" width="450" height="700">
 
-Shopping Screen
+Екран покупок
 
 <img src="Image/22.gif" alt="" width="450" height="700">
 
-Search Pen
+Пошукова ручка
 
 <img src="Image/77.gif" alt="" width="450" height="700">
 
-Basket
+Кошик
 
 <img src="Image/88.gif" alt="" width="450" height="700">
 
-Registration
+Реєстрація
 
 <img src="Image/99.gif" alt="" width="450" height="700">
 
-About User
+Про користувача
 
 <img src="Image/100.gif" alt="" width="450" height="700">
 
